@@ -15,6 +15,8 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img width="861" height="770" alt="image" src="https://github.com/user-attachments/assets/37adff9b-357a-4d05-b1a6-ebd119026eb5" />
+
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
